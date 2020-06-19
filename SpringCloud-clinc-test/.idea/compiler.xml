@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Trade-API" />
+        <module name="Eureka-Prescription-8081" />
+        <module name="Clinic-Trade" />
+        <module name="Storm" />
+        <module name="Eureka-Prescription-Api" />
+        <module name="Eureka-Server-9003" />
+        <module name="Eureka-Server-9002" />
+        <module name="Eureka-Server-9001" />
+        <module name="Eureka-Zuul-7001" />
+        <module name="Eureka-UaaServer" />
+        <module name="Eureka-Data-8083" />
+        <module name="Eureka-Medicine-8084" />
+        <module name="Eureka-Data-Api" />
+        <module name="Eureka-Medicine-Api" />
+        <module name="Eureka-ConfigRepo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Clinic-Trade" target="1.8" />
+      <module name="Clinic_Trade" target="1.8" />
+      <module name="Eureka-Api" target="1.8" />
+      <module name="Eureka-ConfigRepo" target="1.8" />
+      <module name="Eureka-Data-8083" target="1.8" />
+      <module name="Eureka-Data-Api" target="1.8" />
+      <module name="Eureka-Medicine-8084" target="1.8" />
+      <module name="Eureka-Medicine-Api" target="1.8" />
+      <module name="Eureka-Prescription-8081" target="1.8" />
+      <module name="Eureka-Prescription-Api" target="1.8" />
+      <module name="Eureka-Server" target="1.8" />
+      <module name="Eureka-Server-9001" target="1.8" />
+      <module name="Eureka-Server-9002" target="1.8" />
+      <module name="Eureka-Server-9003" target="1.8" />
+      <module name="Eureka-UaaServer" target="1.8" />
+      <module name="Eureka-Zuul-7001" target="1.8" />
+      <module name="Eureka-Zuul-7001 (1)" target="1.5" />
+      <module name="Storm" target="1.8" />
+      <module name="Trade-API" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Clinic-Trade" options="-parameters" />
+      <module name="Clinic_Trade" options="-parameters" />
+      <module name="Eureka-Api" options="-parameters" />
+      <module name="Eureka-ConfigRepo" options="-parameters" />
+      <module name="Eureka-Data-8083" options="-parameters" />
+      <module name="Eureka-Data-Api" options="-parameters" />
+      <module name="Eureka-Medicine-8084" options="-parameters" />
+      <module name="Eureka-Medicine-Api" options="-parameters" />
+      <module name="Eureka-Prescription-8081" options="-parameters" />
+      <module name="Eureka-Prescription-Api" options="-parameters" />
+      <module name="Eureka-Server-9001" options="-parameters" />
+      <module name="Eureka-Server-9002" options="-parameters" />
+      <module name="Eureka-Server-9003" options="-parameters" />
+      <module name="Eureka-UaaServer" options="-parameters" />
+      <module name="Eureka-Zuul-7001" options="-parameters" />
+      <module name="Trade-API" options="-parameters" />
+    </option>
+  </component>
+</project>

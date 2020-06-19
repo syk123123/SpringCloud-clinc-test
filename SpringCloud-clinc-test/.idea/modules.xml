@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clinic-Trade/Clinic-Trade.iml" filepath="$PROJECT_DIR$/Clinic-Trade/Clinic-Trade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Api/Eureka-Api.iml" filepath="$PROJECT_DIR$/Eureka-Api/Eureka-Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-ConfigRepo/Eureka-ConfigRepo.iml" filepath="$PROJECT_DIR$/Eureka-ConfigRepo/Eureka-ConfigRepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Data-8083/Eureka-Data-8083.iml" filepath="$PROJECT_DIR$/Eureka-Data-8083/Eureka-Data-8083.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Api/Eureka-Data-Api/Eureka-Data-Api.iml" filepath="$PROJECT_DIR$/Eureka-Api/Eureka-Data-Api/Eureka-Data-Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Medicine-8084/Eureka-Medicine-8084.iml" filepath="$PROJECT_DIR$/Eureka-Medicine-8084/Eureka-Medicine-8084.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Api/Eureka-Medicine-Api/Eureka-Medicine-Api.iml" filepath="$PROJECT_DIR$/Eureka-Api/Eureka-Medicine-Api/Eureka-Medicine-Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Prescription-8081/Eureka-Prescription-8081.iml" filepath="$PROJECT_DIR$/Eureka-Prescription-8081/Eureka-Prescription-8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Api/Eureka-Prescription-Api/Eureka-Prescription-Api.iml" filepath="$PROJECT_DIR$/Eureka-Api/Eureka-Prescription-Api/Eureka-Prescription-Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Server/Eureka-Server.iml" filepath="$PROJECT_DIR$/Eureka-Server/Eureka-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Server/Eureka-Server-9001/Eureka-Server-9001.iml" filepath="$PROJECT_DIR$/Eureka-Server/Eureka-Server-9001/Eureka-Server-9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Server/Eureka-Server-9002/Eureka-Server-9002.iml" filepath="$PROJECT_DIR$/Eureka-Server/Eureka-Server-9002/Eureka-Server-9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Server/Eureka-Server-9003/Eureka-Server-9003.iml" filepath="$PROJECT_DIR$/Eureka-Server/Eureka-Server-9003/Eureka-Server-9003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-UaaServer/Eureka-UaaServer.iml" filepath="$PROJECT_DIR$/Eureka-UaaServer/Eureka-UaaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Zuul-7001/Eureka-Zuul-7001.iml" filepath="$PROJECT_DIR$/Eureka-Zuul-7001/Eureka-Zuul-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud-clinc.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud-clinc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Storm/Storm.iml" filepath="$PROJECT_DIR$/Storm/Storm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-Api/Trade-API/Trade-API.iml" filepath="$PROJECT_DIR$/Eureka-Api/Trade-API/Trade-API.iml" />
+    </modules>
+  </component>
+</project>

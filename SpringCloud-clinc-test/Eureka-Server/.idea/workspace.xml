@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e589747c-a967-4bd4-8b22-e465d46a449a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Maven3.3.9\apache-maven-3.3.9\repository4" />
+        <option name="mavenHome" value="F:/Maven3.3.9/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="F:\Maven3.3.9\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cQUaZI8k8Sbvghb3gHEZedkwk3" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Eureka-Server-9003/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\SpringCloud\SpringCloud-clinc\Eureka-Server\Eureka-Server-9003\src\main\resources" />
+      <recent name="F:\SpringCloud\SpringCloud-clinc\Eureka-Server\Eureka-Server-9002\src\main\resources" />
+      <recent name="F:\SpringCloud\SpringCloud-clinc\Eureka-Server\Eureka-Server-9001\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e589747c-a967-4bd4-8b22-e465d46a449a" name="Default Changelist" comment="" />
+      <created>1590460374785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590460374785</updated>
+      <workItem from="1590460383165" duration="916000" />
+      <workItem from="1590462378321" duration="328000" />
+      <workItem from="1590462752001" duration="409000" />
+      <workItem from="1590474671139" duration="55000" />
+      <workItem from="1590538543157" duration="60000" />
+      <workItem from="1590538712488" duration="799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Storm:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad5d699b-c39c-49c0-b026-a3484e7e3da7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oracle11g" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oracle11g" type="feb32156:DbDataSourceImpl" />
+        <item name="SCOTT: schema" type="3abd1b6a:OraImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oracle11g" type="feb32156:DbDataSourceImpl" />
+        <item name="SCOTT: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cQUE3V33rLCD6zgI88jwSApP4K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;oracle" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3723898" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.entity" />
+      <recent name="cn.config" />
+      <recent name="cn" />
+      <recent name="cn.util" />
+      <recent name="cn.http" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\SpringCloud\SpringCloud-clinc-test\Clinic-Trade" />
+      <recent name="F:\SpringCloud\SpringCloud-clinc-test\Eureka-ConfigRepo" />
+      <recent name="F:\SpringCloud\SpringCloud-clinc-test\Eureka-Api\Eureka-Data-Api" />
+      <recent name="F:\SpringCloud\SpringCloud-clinc-test\Eureka-Api" />
+      <recent name="F:\SpringCloud\SpringCloud-clinc-test\Eureka-Zuul-7001" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.trade">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Clinic-Trade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.project.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApi" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Eureka-ConfigRepo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ConfigApi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaData_8083" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka-Data-8083" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.EurekaData_8083" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaData_8087" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka-Data-8083" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.EurekaData_8083" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="spring.cloud.config.uri" />
+          <option name="value" value="http://localhost:6001" />
+        </param>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="spring.cloud.config.profile" />
+          <option name="value" value="prod" />
+        </param>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8087" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMedicine_8084" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka-Medicine-8084" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.Medicine_8084" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMedicine_8086" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka-Medicine-8084" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.Medicine_8084" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8086" />
+        </param>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="spring.cloud.config.uri" />
+          <option name="value" value="http://localhost:6001" />
+        </param>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="spring.cloud.config.profile" />
+          <option name="value" value="prod" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaProscription_8081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka-Prescription-8081" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.EurekaPrescription_8081" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaProscription_8088" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka-Prescription-8081" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.EurekaPrescription_8081" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="8088" />
+        </param>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="spring.cloud.config.uri" />
+          <option name="value" value="http://localhost:6001" />
+        </param>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="spring.cloud.config.profile" />
+          <option name="value" value="prod" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer_9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka-Server-9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.EurekaServer_9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer_9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka-Server-9002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.EurekaServer_9002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer_9003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Eureka-Server-9003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.EurekaServer_9003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uaa_5001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Eureka-UaaServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.Uaa_5001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zuul_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Eureka-Zuul-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.Zuul_7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="storm" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.92" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Storm:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SpringCloud-clinc-test" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57026" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Storm:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="config" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="ideaconfig" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="ideaconfigserver" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="6001" />
+                <option name="hostPort" value="6001" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Eureka-ConfigRepo/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="data" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="ideadata" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="ideadatatest" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="8083" />
+                <option name="hostPort" value="8083" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Eureka-Data-8083/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="medicine" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="ideamedicine" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="ideamedicinetest" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="8084" />
+                <option name="hostPort" value="8084" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Eureka-Medicine-8084/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="prescription" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="ideaprescription" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="ideaprescriptionserver" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="8081" />
+                <option name="hostPort" value="8081" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Eureka-Prescription-8081/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="server1" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="ideaserver1" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="ideaservertest1" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="9001" />
+                <option name="hostPort" value="9001" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Eureka-Server/Eureka-Server-9001/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="server2" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="ideaserver2" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="ideaservertest2" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="9002" />
+                <option name="hostPort" value="9002" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Eureka-Server/Eureka-Server-9002/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="server3" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="ideaserver3" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="ideaservertest3" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="9003" />
+                <option name="hostPort" value="9003" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Eureka-Server/Eureka-Server-9003/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="trade" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="ideatrade" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="ideatreadeserver" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="8010" />
+                <option name="hostPort" value="8010" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Clinic-Trade/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="uaa" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="ideauaa" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="ideauaaserver" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="5001" />
+                <option name="hostPort" value="5001" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Eureka-UaaServer/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="zuul" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="ideazuul" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="ideazuulserver" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="7001" />
+                <option name="hostPort" value="7001" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Eureka-Zuul-7001/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.trade" />
+      <item itemvalue="Docker.prescription" />
+      <item itemvalue="Docker.zuul" />
+      <item itemvalue="Docker.config" />
+      <item itemvalue="Docker.uaa" />
+      <item itemvalue="Docker.server3" />
+      <item itemvalue="Docker.server2" />
+      <item itemvalue="Docker.server1" />
+      <item itemvalue="Docker.data" />
+      <item itemvalue="Docker.medicine" />
+      <item itemvalue="Spring Boot.EurekaData_8083" />
+      <item itemvalue="Spring Boot.EurekaMedicine_8084" />
+      <item itemvalue="Spring Boot.EurekaProscription_8081" />
+      <item itemvalue="Spring Boot.EurekaProscription_8088" />
+      <item itemvalue="Spring Boot.EurekaData_8087" />
+      <item itemvalue="Spring Boot.EurekaMedicine_8086" />
+      <item itemvalue="Spring Boot.EurekaServer_9002" />
+      <item itemvalue="Spring Boot.EurekaServer_9003" />
+      <item itemvalue="Spring Boot.EurekaServer_9001" />
+      <item itemvalue="Spring Boot.Uaa_5001" />
+      <item itemvalue="Spring Boot.ConfigApi" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Zuul_7001" />
+      <item itemvalue="Tomcat Server.storm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Zuul_7001" />
+        <item itemvalue="Spring Boot.ConfigApi" />
+        <item itemvalue="Spring Boot.Uaa_5001" />
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.19125684" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@60c8f5e9" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@60c8f5e9" type="9fbbdea:ServiceModel$ServiceNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@4506522b" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad5d699b-c39c-49c0-b026-a3484e7e3da7" name="Default Changelist" comment="" />
+      <created>1590460195522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590460195522</updated>
+      <workItem from="1590460204969" duration="171000" />
+      <workItem from="1590463172889" duration="84000" />
+      <workItem from="1590463277767" duration="58000" />
+      <workItem from="1590463754932" duration="42000" />
+      <workItem from="1590464025350" duration="9835000" />
+      <workItem from="1590539225818" duration="17719000" />
+      <workItem from="1590581982394" duration="10201000" />
+      <workItem from="1590628027025" duration="862000" />
+      <workItem from="1590630799395" duration="20661000" />
+      <workItem from="1590712648567" duration="22358000" />
+      <workItem from="1590757489565" duration="4998000" />
+      <workItem from="1590797749376" duration="12497000" />
+      <workItem from="1590827204273" duration="1829000" />
+      <workItem from="1590930703626" duration="1231000" />
+      <workItem from="1590970154697" duration="10320000" />
+      <workItem from="1591056336940" duration="3258000" />
+      <workItem from="1591084854048" duration="2151000" />
+      <workItem from="1591102802924" duration="665000" />
+      <workItem from="1591149599132" duration="3546000" />
+      <workItem from="1591234804290" duration="4033000" />
+      <workItem from="1591239072747" duration="3499000" />
+      <workItem from="1591250921100" duration="3785000" />
+      <workItem from="1591255051743" duration="4614000" />
+      <workItem from="1591275315873" duration="2594000" />
+      <workItem from="1591345872685" duration="618000" />
+      <workItem from="1591405405366" duration="1023000" />
+      <workItem from="1591420476627" duration="10259000" />
+      <workItem from="1591606915000" duration="2002000" />
+      <workItem from="1591946931900" duration="90000" />
+      <workItem from="1592015384714" duration="1956000" />
+      <workItem from="1592143844869" duration="189000" />
+      <workItem from="1592147454105" duration="662000" />
+      <workItem from="1592207568336" duration="2515000" />
+      <workItem from="1592271863677" duration="20576000" />
+      <workItem from="1592381519057" duration="4332000" />
+      <workItem from="1592394387556" duration="242000" />
+      <workItem from="1592395067537" duration="12610000" />
+      <workItem from="1592408188827" duration="2561000" />
+      <workItem from="1592439177963" duration="9053000" />
+      <workItem from="1592456832118" duration="15663000" />
+      <workItem from="1592481352577" duration="16631000" />
+      <workItem from="1592525345828" duration="3471000" />
+      <workItem from="1592564845670" duration="616000" />
+      <workItem from="1592565960762" duration="1152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

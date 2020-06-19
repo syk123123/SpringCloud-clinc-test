@@ -1,0 +1,5 @@
+cn\config\MedicineCallBack.class
+cn\response\ResponseEnum.class
+cn\config\FeignMedicineApi.class
+cn\response\Response.class
+cn\config\FeignConfig.class

@@ -1,0 +1,5 @@
+cn\response\ResponseEnum.class
+cn\config\DataCallBck.class
+cn\response\Response.class
+cn\config\FeignDataApi.class
+cn\config\FeignConfig.class
